@@ -1,5 +1,5 @@
 # ex3
-Interpreter for flight gear simulator:
+  Interpreter for flight gear simulator in C++.
   The program interprets the fly.txt and fly_with_func.txt, that contain a sequence of an autopilot commands,
   to a flight gear simulator code that makes the airplane fly.
   In order to change the autopilot commands, you can edit the fly.txt and the fly_with_func.txt files
